@@ -1,5 +1,5 @@
 def hello
-  p "hello, github　今だけだからな."
+  p "hello, github　関東最強のまんざいし復活."
 end
 
 hello
