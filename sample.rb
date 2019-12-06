@@ -1,5 +1,5 @@
 def hello
-  p "hello, github　アンタッチャブル."
+  p "hello, github　今だけだからな."
 end
 
 hello
