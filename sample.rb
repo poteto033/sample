@@ -1,5 +1,5 @@
 def hello
-  p "hello, github　デスクトップ."
+  p "hello, github　アンタッチャブル."
 end
 
 hello
